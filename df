@@ -1,0 +1,31 @@
+[33mcad63aa[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m, [m[1;32mjavier[m[33m)[m HEAD@{0}: checkout: moving from john to demo
+[33m9eaa4e9[m[33m ([m[1;32mjohn[m[33m)[m HEAD@{1}: checkout: moving from javier to john
+[33mcad63aa[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m, [m[1;32mjavier[m[33m)[m HEAD@{2}: checkout: moving from master to javier
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{3}: checkout: moving from john to master
+[33m9eaa4e9[m[33m ([m[1;32mjohn[m[33m)[m HEAD@{4}: checkout: moving from javier to john
+[33mcad63aa[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m, [m[1;32mjavier[m[33m)[m HEAD@{5}: checkout: moving from john to javier
+[33m9eaa4e9[m[33m ([m[1;32mjohn[m[33m)[m HEAD@{6}: checkout: moving from master to john
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{7}: checkout: moving from javier to master
+[33mcad63aa[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m, [m[1;32mjavier[m[33m)[m HEAD@{8}: commit: Yo Javie modifique el archivo choose_screen
+[33m933f8ab[m HEAD@{9}: commit: Mi primer screen propio
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{10}: checkout: moving from master to javier
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{11}: checkout: moving from john to master
+[33m9eaa4e9[m[33m ([m[1;32mjohn[m[33m)[m HEAD@{12}: commit: Modifique el archivo choose_screen
+[33m99efb7f[m HEAD@{13}: checkout: moving from master to john
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{14}: checkout: moving from john to master
+[33m99efb7f[m HEAD@{15}: commit: Esto es la primera modificacion de la rama John
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{16}: checkout: moving from master to john
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{17}: reset: moving to 76d839c
+[33m4494646[m HEAD@{18}: reset: moving to 4494646
+[33m08ae66a[m HEAD@{19}: reset: moving to 08ae66a
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{20}: reset: moving to 76d839c
+[33m08ae66a[m HEAD@{21}: reset: moving to 08ae66a
+[33m4494646[m HEAD@{22}: rebase (finish): returning to refs/heads/master
+[33m4494646[m HEAD@{23}: rebase (start): checkout 44946465aaf27637a781396c6a3602b5f8c5f94d
+[33m76d839c[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{24}: commit (amend): Estructura basica del proyecto simulacro
+[33m3640fd2[m HEAD@{25}: commit (amend): Estructura basica del proyecto simulacro
+[33m341fe4d[m HEAD@{26}: commit (amend): Estructura basica del proyecto simulacro
+[33m3a9aa53[m HEAD@{27}: commit (amend): Estructura basica del proyecto simulacro
+[33ma1be29a[m HEAD@{28}: commit (amend): Estructura basica del proyecto simulacro
+[33m08ae66a[m HEAD@{29}: commit: Estructura basica del proyecto simulacro
+[33m4494646[m HEAD@{30}: commit (initial): First commit
