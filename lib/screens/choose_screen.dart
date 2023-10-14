@@ -17,7 +17,7 @@ class ChooseScreen extends StatelessWidget {
           context.pop();
         },
       ),
-      bottomNavigationBar: const Text("Implementar el Banner Adaptativo"),
+      bottomNavigationBar: const Text("Implementar en esta seccion el Banner Adaptativo"),
     );
   }
 }
