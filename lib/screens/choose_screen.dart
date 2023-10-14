@@ -8,7 +8,7 @@ class ChooseScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Escoger - Porfavor mofiquen este titulo urgente"),
+        title: const Text("Escoger - Definir bien este titulo"),
       ),
       body: const _ChooseView(),
       floatingActionButton: FloatingActionButton(
