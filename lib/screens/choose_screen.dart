@@ -17,7 +17,7 @@ class ChooseScreen extends StatelessWidget {
           context.pop();
         },
       ),
-      bottomNavigationBar: const Text("John Banner Adaptativo"),
+      bottomNavigationBar: const Text("John Banner Adaptativo x2"),
     );
   }
 }
